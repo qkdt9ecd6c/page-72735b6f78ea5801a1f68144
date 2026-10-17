@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-940c20c02d.webstep.cn/sitemap.xml
